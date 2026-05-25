@@ -38,7 +38,7 @@ const cssStyles = `
   @import url('https://fonts.googleapis.com/css2?family=Amiri:ital,wght@0,400;0,700;1,400&family=Cinzel:wght@400;600&display=swap');
 
   .story-section {
-    background: #02040A;
+    background: #0a1a0f;
     padding: 120px 20px;
     position: relative;
     overflow: hidden;

@@ -35,11 +35,11 @@ function App() {
           />
 
           <Hero />
+          <QuranSection />
           <LoveStory />
           <Gallery />
           <Details />
           <Location />
-          <QuranSection />
           <RSVP />
         </main>
       )}
